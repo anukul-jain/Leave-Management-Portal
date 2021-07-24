@@ -30,7 +30,7 @@ HTML form and the confirmation page for the same.
   3. Leave applications: From time-to-time, faculty can go on a leave. Depending on the post of the         applicant, his/her leave application would go through a specific route. For instance, leave           application of a faculty follows the following route for approval: Faculty → HoD → Dean Faculty       Affairs. In each stage, the person forwards with comments. Finally Dean Faculty Affairs               approves or rejects. After approval, leave is deducted from the available
       leaves and an intimation is sent to faculty. Leave applications of HoDs and Deans are approved       directly by the Director. Two more things to
       note here: 
-      (a) Each employee has a fixed number of leaves per year (and they expire at the end        of             the year). 
+      (a) Each employee has a fixed number of leaves per year (and they expire at the end of             the year). 
       (b)Sometimes, HoD, concerned head, and/or Dean FAA may redirect the application to the employee         for more comments. Once approved (or rejected), the concerned faculty is intimated. Also note         that the concerned faculty should be able to see the current position of the leave                    application and all the comments made on it by different entities. These comments can also            be seen by HoD and Dean Faculty Affairs.
       Following Depts in Faculty: CSE, ME and EE. Each Dept has an HoD. HoD is a current faculty of         the dept.
       Following Deans: Dean Faculty Affairs (any of the current faculty can become Dean for a certain        duration).
