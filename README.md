@@ -1,22 +1,22 @@
 # Leave-Management-Portal
-This Project is contributed by: 
-ANUKUL JAIN,
-PRADYUMNA PARSAI,
+This Project is contributed by:<br /> 
+ANUKUL JAIN<br />
+PRADYUMNA PARSAI<br />
 SATYAM GUSAIN
 
 In this project we worked on : 
 
-  1. Frontend - HTML5, CSS & JavaScript
-  2. Backend - PHP, XAMPP (phpmyadmin for MySQL), NoSQL(MongoDB)
+  1. Frontend - HTML5, CSS & JavaScript<br />
+  2. Backend - PHP, XAMPP (phpmyadmin for MySQL), NoSQL(MongoDB)<br />
 
 ## About The Project
 
 In this project, the members are creating a leave management system. The project has
 the following components:
 
-  1. **FACULTY CONSOLE**
-  2. **ADMIN MANAGEMENT CONSOLE**
-  3. **FACULTY REGISTRATION COMPONENT**
+  1. **FACULTY CONSOLE**<br />
+  2. **ADMIN MANAGEMENT CONSOLE**<br />
+  3. **FACULTY REGISTRATION COMPONENT**<br />
   
 Before accessing the **FACULTY CONSOLE**, the faculty has to register himself/herself using
 the **FACULTY REGISTRATION COMPONENT**. The registration component consists of a
