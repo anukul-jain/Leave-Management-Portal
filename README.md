@@ -6,8 +6,8 @@ This Project is contributed by:<br />
 
 In this project we worked on : 
 
-  - 1. Frontend - HTML5, CSS & JavaScript<br />
-  - 2. Backend - PHP, XAMPP (phpmyadmin for MySQL), NoSQL(MongoDB)<br />
+  - Frontend - HTML5, CSS & JavaScript<br />
+  - Backend - PHP, XAMPP (phpmyadmin for MySQL), NoSQL(MongoDB)<br />
 
 ## About The Project
 
