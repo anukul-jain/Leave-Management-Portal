@@ -14,20 +14,18 @@ In this project we worked on :
 In this project, the members are creating a leave management system. The project has
 the following components:
 
-  1. **FACULTY CONSOLE**<br />
-  2. **ADMIN MANAGEMENT CONSOLE**<br />
-  3. **FACULTY REGISTRATION COMPONENT**<br />
+  - **FACULTY CONSOLE**<br />
+  - **ADMIN MANAGEMENT CONSOLE**<br />
+  - **FACULTY REGISTRATION COMPONENT**
   
 Before accessing the **FACULTY CONSOLE**, the faculty has to register himself/herself using
 the **FACULTY REGISTRATION COMPONENT**. The registration component consists of a
 HTML form and the confirmation page for the same. 
 
 **FACULTY CONSOLE**
-  1. Faculty are divided into departments (e.g., CS, EE, ME, Civil, etc.). Each department has a
-      head-of-department (HoD) who is also one of the faculty members in the department.
-  2. Cross-cutting Faculty: Dean Faculty Affairs, Dean Academic Affairs, Dean Research and Dean
-      Student Affairs.
-  3. Leave applications: From time-to-time, faculty can go on a leave. Depending on the post of the         applicant, his/her leave application would go through a specific route. For instance, leave           application of a faculty follows the following route for approval: Faculty → HoD → Dean Faculty       Affairs. In each stage, the person forwards with comments. Finally Dean Faculty Affairs               approves or rejects. After approval, leave is deducted from the available
+  - Faculty are divided into departments (e.g., CS, EE, ME, Civil, etc.). Each department has a head-of-department (HoD) who is also one of the faculty members in the department.
+  - Cross-cutting Faculty: Dean Faculty Affairs, Dean Academic Affairs, Dean Research and Dean Student Affairs.
+  - Leave applications: From time-to-time, faculty can go on a leave. Depending on the post of the applicant, his/her leave application would go through a specific route. For instance, leave application of a faculty follows the following route for approval: Faculty → HoD → Dean Faculty Affairs. In each stage, the person forwards with comments. Finally Dean Faculty Affairs approves or rejects. After approval, leave is deducted from the available
       leaves and an intimation is sent to faculty. Leave applications of HoDs and Deans are approved       directly by the Director. Two more things to
       note here: 
       (a) Each employee has a fixed number of leaves per year (and they expire at the end of             the year). 
