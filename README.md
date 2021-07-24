@@ -37,10 +37,7 @@ HTML form and the confirmation page for the same.
         - Status of the leave applications (including the comments added by various entities,
         - Options to start new leave applications, 
         - Respond to comments made on leave applications.
-        - Specialized Portals: Each of the named positions such as HoD, Dean and Director would have         specialized portals
-          for handling the applications. Note that all the specialized portal logins must be tied up          with an employee (implicity). For e.g., consider a faculty named Dr Rajesh in the CSE dept.           When he becomes the HoD of the CSE dept, his login should now have options to                         approve/reject/make comments on the leave applications of the CSE
-        dept faculty. And his own leave applications would now go to the Director. These features             should be removed
-        when he steps down from the HoD position.
+      - Specialized Portals: Each of the named positions such as HoD, Dean and Director would have specialized portals for handling the applications. Note that all the specialized portal logins must be tied up with an employee (implicity). For e.g., consider a faculty named Dr Rajesh in the CSE dept. When he becomes the HoD of the CSE dept, his login should now have options to approve/reject/make comments on the leave applications of the CSE dept faculty. And his own leave applications would now go to the Director. These features should be removed when he steps down from the HoD position.
 
  
   
