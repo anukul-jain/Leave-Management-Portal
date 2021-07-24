@@ -1,8 +1,8 @@
 # Leave-Management-Portal
 This Project is contributed by: 
-ANUKUL JAIN
-PRADYUMNA PARSAI
-SATYAM GUSAIN
+ANUKUL JAIN,
+,PRADYUMNA PARSAI
+,SATYAM GUSAIN
 
 In this project we worked on : 
 
