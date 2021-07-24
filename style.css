@@ -1,0 +1,44 @@
+
+.heading {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  font-family: "Segoe UI Light","Segoe WPC","Segoe UI",
+              Helvetica, Arial, "Arial Unicode MS", Sans-Serif;
+  font-size: 17px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: lighter;
+  color: #272626;
+  text-align: center;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+}
+
+.content {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  font-family: "Segoe UI Light","Segoe WPC","Segoe UI",
+              Helvetica, Arial, "Arial Unicode MS", Sans-Serif;
+  font-size: 17px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: lighter;
+  color: #272626;
+  text-align: center;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+}
+
+body{
+background-image:url("3.gif");
+
+}
+
+.error{
+	color: #ff0000;
+}
+
