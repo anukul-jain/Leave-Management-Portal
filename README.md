@@ -1,13 +1,13 @@
 # Leave-Management-Portal
 This Project is contributed by:<br /> 
-ANUKUL JAIN<br />
-PRADYUMNA PARSAI<br />
-SATYAM GUSAIN
+- ANUKUL JAIN<br />
+- PRADYUMNA PARSAI<br />
+- SATYAM GUSAIN
 
 In this project we worked on : 
 
-  1. Frontend - HTML5, CSS & JavaScript<br />
-  2. Backend - PHP, XAMPP (phpmyadmin for MySQL), NoSQL(MongoDB)<br />
+  - 1. Frontend - HTML5, CSS & JavaScript<br />
+  - 2. Backend - PHP, XAMPP (phpmyadmin for MySQL), NoSQL(MongoDB)<br />
 
 ## About The Project
 
