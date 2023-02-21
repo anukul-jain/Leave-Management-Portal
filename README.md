@@ -7,7 +7,7 @@ This Project is contributed by:<br />
 In this project we worked on : 
 
   - Frontend - HTML5, CSS & JavaScript<br />
-  - Backend - PHP, SQL(Postges), NoSQL(MongoDB)<br />
+  - Backend - PHP, SQL, NoSQL<br />
 
 ## About The Project
 
